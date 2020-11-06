@@ -25,8 +25,8 @@ class Pages extends BaseController
             'alamat' => [
                 [
                     'tipe' => 'rumah',
-                    'alamat' => 'Jln batu nunggal 4',
-                    'kota' => 'Bandung'
+                    'alamat' => 'Jl. pangkalan loji',
+                    'kota' => 'Karawang'
                 ],
                 [
                     'tipe' => 'Kantor',
